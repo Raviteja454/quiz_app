@@ -1,0 +1,88 @@
+[
+    {
+        "1": "Who made the first IPL century ?",
+        "2": "When did IPL begin ?",
+        "3": "Where was thr first IPL final held in 2008 ?",
+        "4": "Who is known as Mr. IPL ?",
+        "5": "Who was the first Indian batsman to score an IPL century ?",
+        "6": "Who hit the most sixes in IPL 2020 ?",
+        "7": "Purple cap holder of IPL 2020 ?",
+        "8": "Who was the captain of Mumbai Indians in IPL 2012 ?",
+        "9": "Who has the most IPL hundreds ?",
+        "10": "Which team has won the made the lowest score in IPL ?"
+    },
+    {
+        "1": {
+            "a": "Chris Gayle",
+            "b": "Virat Kohli",
+            "c": "Shane Watson",
+            "d": "Brendon McCullum"
+        },
+        "2": {
+            "a": "2009",
+            "b": "2008",
+            "c": "2007",
+            "d": "2006"
+        },
+        "3": {
+            "a": "D Y Patil Sports Stadium",
+            "b": "Eden Gardens",
+            "c": "Wankhede Stadium",
+            "d": "M. Chinnaswamy Stadium"
+        },
+        "4": {
+            "a": "Virat Kohli",
+            "b": "Suresh Raina",
+            "c": "AB de Villiers",
+            "d": "Chris Gayle"
+        },
+        "5": {
+            "a": "Suresh Raina",
+            "b": "Sachin Tendulkar",
+            "c": "Virat Kohli",
+            "d": "Manish Pandey"
+        },
+        "6": {
+            "a": "Hardik Pandya",
+            "b": "Sanju Samson",
+            "c": "Ishan Kishan",
+            "d": "KL Rahul"
+        },
+        "7": {
+            "a": "Jasprit Bumrah",
+            "b": "Yuzvendra Chahal",
+            "c": "Kagiso Rabada",
+            "d": "Rashid Khan"
+        },
+        "8": {
+            "a": "Rohit Sharma",
+            "b": "Harbhajan Singh",
+            "c": "Sachin Tendulkar",
+            "d": "Mahela Jayawardene"
+        },
+        "9": {
+            "a": "Chris Gayle",
+            "b": "Virat Kohli",
+            "c": "Jos Buttler",
+            "d": "Rohit Sharma"
+        },
+        "10": {
+            "a": "Sunrisers Hyderabad",
+            "b": "Punjab Kings",
+            "c": "Kolkata Knight Riders",
+            "d": "Royal Challengers Bangalore"
+        }
+    },
+    {
+        "1": "Brendon McCullum",
+        "2": "2008",
+        "3": "D Y Patil Sports Stadium",
+        "4": "Suresh Raina",
+        "5": "Manish Pandey",
+        "6": "Ishan Kishan",
+        "7": "Kagiso Rabada",
+        "8": "Harbhajan Singh",
+        "9": "Chris Gayle",
+        "10": "Royal Challengers Bangalore"
+    }
+]
